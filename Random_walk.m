@@ -1,3 +1,4 @@
+%random_walk 시뮬레이션
 clc
 clear
 format long
