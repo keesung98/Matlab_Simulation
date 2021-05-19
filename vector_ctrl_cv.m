@@ -3,8 +3,7 @@ clear
 
 x=[1 2 3];
 n=input("정수입력 : ");
-y=duplicate_n(x,n);
-y
+y=duplicate_n(x,n)
 
 function y=duplicate_n( x, n )
 new=[];
