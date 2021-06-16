@@ -24,4 +24,5 @@
 %fprintf("%8.2f",x)  8칸을 배열을 만들고 소수점 2째자리까지 출력
 %[a,b]=meshgrid(x,y)  x,y에 저장된 좌표를 바탕으로 2차원 행열생성
 %contour(x,y,Z)  x,y축을 바탕으로 z등고선을 표시 출력
+%cell=[cell x]  벡터 합치기
 
