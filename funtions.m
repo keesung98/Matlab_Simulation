@@ -25,4 +25,4 @@
 %[a,b]=meshgrid(x,y)  x,y에 저장된 좌표를 바탕으로 2차원 행열생성
 %contour(x,y,Z)  x,y축을 바탕으로 z등고선을 표시 출력
 %cell=[cell x]  벡터 합치기
-
+%fopen("파일이름","ㄱ")   파일출력
