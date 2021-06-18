@@ -4,7 +4,7 @@ clear
 format compact;
 x = [1 2 3 4]
 a = 0
-b = 5
+b = 3
 B = allint(x, a, b)
 function y=allint(x,a,b)
 key=0;
