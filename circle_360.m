@@ -1,8 +1,8 @@
 clc
 clear
-
 grid on
 hold on
+
 axis([-5 5 -5 5])
 
 t=[0,1,2,3,4,5,6,7,8];
