@@ -2,7 +2,7 @@
 %clear 명령창 삭제
 %fprintf  출력
 %input 입력
-%floor 내림
+%floor 내림(버림)
 %abs 절대값
 %while ()
 %for k=1:n   k는 1부터 n까지 1씩증가
